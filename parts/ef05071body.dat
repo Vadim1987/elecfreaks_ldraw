@@ -1,0 +1,12 @@
+0 ELECFREAKS PlanetX Smart Brick Motor body
+0 Name: ef05071body.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS ELECFREAKS, PlanetX
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 ef05071shell.dat
+1 7 0 19 -104 1 0 0 0 1 0 0 0 1 s\rj11socket.dat
