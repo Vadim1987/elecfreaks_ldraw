@@ -1,2 +1,2 @@
-# elecfreaks_ldraw
-LDraw parts by ELECFREAKS and models with them
+# ELECFREAKS LDraw
+An LDraw repository of LEGO-compatible parts by ELECFREAKS and models using them
