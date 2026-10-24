@@ -1,0 +1,23 @@
+0 ELECFREAKS PlanetX Smart Brick Motor shell
+0 Name: ef05071shell.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS ELECFREAKS, PlanetX
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\ef05071right.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\ef05071right.dat
+1 16 0 0 60 1 0 0 0 0 1 0 -1 0 s\flatrounded.dat
+1 16 0 0 -120 1 0 0 0 0 -1 0 1 0 s\socketrounded.dat
+1 16 0 20 50 0 -1 0 1 0 0 0 0 1 s\flatpinhole.dat
+1 16 0 30 30 1 0 0 0 1 0 0 0 1 s\flathole.dat
+1 16 0 -30 30 1 0 0 0 -1 0 0 0 -1 s\flathole.dat
+0 BFC INVERTNEXT
+1 16 0 -30 30 8 0 0 0 60 0 0 0 8 4-4cylo.dat
+1 16 0 20 10 0 -1 0 1 0 0 0 0 1 s\flatpinhole.dat
+4 16 -20 30 0 20 30 0 20 30 -120 -20 30 -120
+4 16 20 -30 20 -20 -30 20 -20 -30 -120 20 -30 -120
+4 16 20 -30 60 -20 -30 60 -20 -30 40 20 -30 40
