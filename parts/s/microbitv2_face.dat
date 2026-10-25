@@ -1,0 +1,31 @@
+0 BBC micro:bit PCB without texture
+0 Name: s\microbitv2_face.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 7 6 0 6 -6 0 0 0 1 0 0 0 -6 1-4disc.dat
+4 7 0 0 12 5 0 12 5 0 22 0 0 22
+1 7 10 0 0 1 0 0 0 1 0 0 0 1 s\microbitv2_contact.dat
+4 7 14 0 0 32 0 0 32 0 2 14 0 2
+4 7 15 0 12 31 0 12 31 0 22 15 0 22
+1 7 36 0 0 1 0 0 0 1 0 0 0 1 s\microbitv2_contact.dat
+4 7 42 0 0 61 0 0 61 0 2 42 0 2
+4 7 41 0 12 60 0 12 60 0 22 41 0 22
+1 7 65 0 0 1 0 0 0 1 0 0 0 1 s\microbitv2_contact.dat
+4 7 69 0 0 90 0 0 90 0 2 69 0 2
+4 7 70 0 12 89 0 12 89 0 22 70 0 22
+1 7 94 0 0 1 0 0 0 1 0 0 0 1 s\microbitv2_contact.dat
+4 7 98 0 0 116 0 0 116 0 2 98 0 2
+4 7 99 0 12 115 0 12 115 0 22 99 0 22
+1 7 120 0 0 1 0 0 0 1 0 0 0 1 s\microbitv2_contact.dat
+4 7 125 0 12 130 0 12 130 0 22 125 0 22
+1 7 124 0 6 0 0 6 0 1 0 -6 0 0 1-4disc.dat
+4 7 6 0 2 124 0 2 124 0 6 6 0 6
+4 7 0 0 6 130 0 6 130 0 12 0 0 12
+1 16 6 0 99 -6 0 0 0 1 0 0 0 6 1-4disc.dat
+1 16 65 0 102 0 0 59 0 1 0 3 0 0  rect1.dat
+1 16 124 0 99 0 0 6 0 1 0 6 0 0 1-4disc.dat
+4 16 0 0 22 130 0 22 130 0 99 0 0 99

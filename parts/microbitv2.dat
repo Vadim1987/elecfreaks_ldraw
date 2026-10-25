@@ -1,0 +1,15 @@
+0 BBC micro:bit v2
+0 Name: microbitv2.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !TEXMAP START PLANAR -66 -2 105 66 -2 105 -66 -2 0 microbitv2_front.png
+1 16 -65 -2 0 1 0 0 0 1 0 0 0 1 s\microbitv2_face.dat
+0 !TEXMAP END
+1 7 -65 -2 0 1 0 0 0 1 0 0 0 1 s\microbitv2_pcbedge.dat
+0 !TEXMAP START PLANAR 66 2 105 -66 2 105 66 2 0 microbitv2_back.png
+1 7 65 2 0 -1 0 0 0 -1 0 0 0 1 s\microbitv2_face.dat
+0 !TEXMAP END
