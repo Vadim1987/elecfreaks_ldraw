@@ -1,0 +1,10 @@
+0 ~
+0 Name: s\pcbpatch.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+4 16 0 0 0 1 0 0 1 0 1 0 0 1
+4 16 0 1 0 0 1 1 1 1 1 1 1 0
