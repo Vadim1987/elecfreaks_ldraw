@@ -1,0 +1,19 @@
+0 Surface mounted micro-switch
+0 Name: microswitch.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 -9 0 8 0 0 0 8 0 0 0 8 box5-4a.dat
+1 80 0 -9 0 8 0 0 0 1 0 0 0 8 rect.dat
+1 16 0 -11 0 5 0 0 0 2 0 0 0 5 4-4cylc.dat
+1 16 6 -10 6 1 0 0 0 1 0 0 0 1 4-4cylc.dat
+1 16 6 -10 -6 1 0 0 0 1 0 0 0 1 4-4cylc.dat
+1 16 -6 -10 -6 1 0 0 0 1 0 0 0 1 4-4cylc.dat
+1 16 -6 -10 6 1 0 0 0 1 0 0 0 1 4-4cylc.dat
+1 80 -6 -1 -8 1 0 0 0 2 0 0 0 1 box.dat
+1 80 6 -1 -8 1 0 0 0 2 0 0 0 1 box.dat
+1 80 -6 -1 8 1 0 0 0 2 0 0 0 1 box.dat
+1 80 6 -1 8 1 0 0 0 2 0 0 0 1 box.dat

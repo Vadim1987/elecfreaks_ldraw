@@ -13,3 +13,6 @@
 0 !TEXMAP START PLANAR 66 2 105 -66 2 105 66 2 0 microbitv2_back.png
 1 7 65 2 0 -1 0 0 0 -1 0 0 0 1 s\microbitv2_face.dat
 0 !TEXMAP END
+1 0 -51 -2 50 1 0 0 0 1 0 0 0 1 microswitch.dat
+1 0 51 -2 50 1 0 0 0 1 0 0 0 1 microswitch.dat
+1 0 -25 2 97 0 0 1 0 -1 0 1 0 0 microswitch.dat
