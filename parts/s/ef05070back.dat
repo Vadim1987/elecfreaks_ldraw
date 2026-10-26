@@ -1,0 +1,15 @@
+0 ~
+0 Name: s\ef05070back.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 -70 0 0 -1 0 0 0 1 0 0 0 -1 s\ef05070back_right.dat
+1 16 -40 0 0 1 0 0 0 1 0 0 0 1 s\ef05070back_pinrow.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 s\ef05070back_pinrow.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\ef05070back_pinrow.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 s\ef05070back_pinrow.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 s\ef05070back_pinrow.dat
+1 16 70 0 0 1 0 0 0 1 0 0 0 1 s\ef05070back_right.dat
