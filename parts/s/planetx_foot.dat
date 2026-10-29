@@ -1,0 +1,18 @@
+0 ~ELECFREAKS PlanetX 3 x 2 x 0.5 Foot
+0 Name: s\planetx_foot.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\planetx_foot_side.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\planetx_foot_side.dat
+4 16 12 0 20 -12 0 20 -12 0 -20 12 0 -20
+4 16 -26 6 0 -26 6 16 26 6 16 26 6 0
+4 16 -10 6 -8 -20 6 0 20 6 0 10 6 -8
+1 16 0 5 18 10 0 0 0 5 0 0 0 2 box2-9p.dat
+1 16 0 5 -18 -10 0 0 0 5 0 0 0 -2 box2-9p.dat
+1 16 0 8 16 0 0 10 -2 0 0 0 1 0 rect1.dat
+0 BFC INVERTNEXT
+1 16 0 8 -12 10 0 0 0 -2 0 0 0 -4 box2-11.dat

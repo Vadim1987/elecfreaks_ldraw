@@ -1,0 +1,10 @@
+0 ~ Gap filler between interstud tube and connector hole
+0 Name: s\planetx_footgap.dat
+0 Author: Daniel A. Nagy [nagydani]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // The width is sqrt(200)- 6 - 8
+4 16 4.2426407 0 6 4.2426407 0 6.1421356 -4.2426407 0 6.1421356 -4.2426407 0 6
