@@ -1,0 +1,19 @@
+0 ELECFREAKS TPBot Body
+0 Name: ef08230body.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS ELECFREAKS, TPBot
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\ef08230shell.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\ef08230panel.dat
+1 0 -35 -183.5 136 1 0 0 0 1 0 0 0 1 s\ef08230eye.dat
+1 0 35 -183.5 136 1 0 0 0 1 0 0 0 1 s\ef08230eye.dat
+1 7 -65 -111.5 -120 1 0 0 0 1 0 0 0 1 s\rj11socket.dat
+1 7 -32.5 -111.5 -120 1 0 0 0 1 0 0 0 1 s\rj11socket.dat
+1 7 32.5 -111.5 -120 1 0 0 0 1 0 0 0 1 s\rj11socket.dat
+1 7 65 -111.5 -120 1 0 0 0 1 0 0 0 1 s\rj11socket.dat
+1 494 0 -17.5 81 17.5 0 0 0 17.5 0 0 0 17.5 s\ef08230ball.dat

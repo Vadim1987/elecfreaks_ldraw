@@ -1,0 +1,24 @@
+0 ~ELECFREAKS TPBot Front Panel
+0 Name: s\ef08230panel.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // between the eyes
+1 16 0 -183.5 136 0 0 10 39.5 0 0 0 -1 0 rect1.dat
+0 // around an eye
+1 16 35 -183.5 136 25 0 0 0 0 25 0 -1 0 4-4ndis.dat
+4 16 10 -223 136 60 -223 136 60 -208.5 136 10 -208.5 136
+1 16 35 -151.25 136 0 0 25 7.25 0 0 0 -1 0 rect1.dat
+1 16 77 -183.5 136 0 0 17 39.5 0 0 0 -1 0 rect1.dat
+1 16 102 -175.5 136 0 0 8 31.5 0 0 0 -1 0 rect1.dat
+1 16 94 -207 136 16 0 0 0 0 -16 0 -1 0 1-4disc.dat
+0 // around an eye
+1 16 -35 -183.5 136 25 0 0 0 0 25 0 -1 0 4-4ndis.dat
+4 16 -60 -223 136 -10 -223 136 -10 -208.5 136 -60 -208.5 136
+1 16 -35 -151.25 136 0 0 25 7.25 0 0 0 -1 0 rect1.dat
+1 16 -77 -183.5 136 0 0 17 39.5 0 0 0 -1 0 rect1.dat
+1 16 -102 -175.5 136 0 0 8 31.5 0 0 0 -1 0 rect1.dat
+1 16 -94 -207 136 -16 0 0 0 0 -16 0 -1 0 1-4disc.dat
