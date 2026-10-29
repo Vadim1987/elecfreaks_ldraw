@@ -1,0 +1,9 @@
+0 ~ELECFREAKS PlanetX 3 x 4.5 PCB
+0 Name: s\planetx_pcb.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 2 0 30 0 0 0 2 0 0 0 45 box.dat
