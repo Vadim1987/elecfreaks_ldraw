@@ -1,0 +1,9 @@
+0 ~ELECFREAKS PlanetX Sensor-Side 3 x 2 x 0.5 Foot
+0 Name: s\planetx_foot_sensor.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\planetx_foot.dat
