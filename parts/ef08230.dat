@@ -1,0 +1,13 @@
+0 ELECFREAKS TPBot
+0 Name: ef08230.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS ELECFREAKS, TPBot
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 ef08230body.dat
+1 14 -130 -78.3 -57.7 0 0 1 0 1 0 -1 0 0 86652c01.dat
+1 14 130 -78.3 -57.7 0 0 -1 0 1 0 1 0 0 86652c01.dat

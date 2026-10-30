@@ -1,0 +1,14 @@
+0 ~ELECFREAKS TPBot Ultrasonic Transducer
+0 Name: s\ef08230eye.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 25 0 0 0 0 25 0 12 0 4-4cylo.dat
+1 16 0 0 12 6.25 0 0 0 0 6.25 0 -1 0 4-4ring3.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 18.75 0 0 0 0 18.75 0 12 0 4-4cylo.dat
+0 // the mesh
+1 72 0 0 0 18.75 0 0 0 0 18.75 0 -1 0 4-4disc.dat

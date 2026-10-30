@@ -1,0 +1,45 @@
+0 ~ELECFREAKS TPBot Shell Side
+0 Name: s\ef08230shell_side.dat
+0 Author: Vadim Stetskiy [Vadim1987]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // rounded edges and corners
+1 16 94 -207 -120 16 0 0 0 0 -16 0 256 0 1-4cyli.dat
+1 16 94 -207 136 16 0 0 0 0 -16 0 1 0 1-4edge.dat
+1 16 94 -41 -120 16 0 0 0 0 16 0 224 0 1-4cyli.dat
+1 16 94 -207 -120 16 0 0 0 166 0 0 0 -16 1-4cyli.dat
+1 16 94 -128 104 16 0 0 0 87 0 0 0 16 1-4cyli.dat
+1 16 94 -207 -120 16 0 0 0 -16 0 0 0 -16 1-8sphe.dat
+1 16 94 -41 -120 16 0 0 0 16 0 0 0 -16 1-8sphe.dat
+1 16 94 -41 104 16 0 0 0 16 0 0 0 16 1-8sphe.dat
+0 // side with the Technic holes
+4 16 110 -207 -120 110 -41 -120 110 -41 10 110 -207 10
+4 16 110 -207 10 110 -177 10 110 -177 70 110 -207 70
+4 16 110 -157 10 110 -41 10 110 -41 50 110 -157 50
+4 16 110 -117 50 110 -41 50 110 -41 70 110 -117 70
+4 16 110 -207 70 110 -41 70 110 -41 104 110 -207 104
+1 16 110 -167 20 0 -1 0 0 0 10 10 0 0 4-4ndis.dat
+1 16 110 -167 20 0 -1 0 0 0 2 2 0 0 4-4ring4.dat
+1 16 100 -167 20 1 0 0 0 1 0 0 0 1 s\blindpinhole.dat
+1 16 110 -167 40 0 -1 0 0 0 10 10 0 0 4-4ndis.dat
+1 16 110 -167 40 0 -1 0 0 0 2 2 0 0 4-4ring4.dat
+1 16 100 -167 40 1 0 0 0 1 0 0 0 1 s\blindpinhole.dat
+1 16 110 -167 60 0 -1 0 0 0 10 10 0 0 4-4ndis.dat
+1 16 110 -167 60 0 -1 0 0 0 2 2 0 0 4-4ring4.dat
+1 16 100 -167 60 1 0 0 0 1 0 0 0 1 s\blindpinhole.dat
+1 16 110 -147 60 0 -1 0 0 0 10 10 0 0 4-4ndis.dat
+1 16 110 -147 60 0 -1 0 0 0 2 2 0 0 4-4ring4.dat
+1 16 100 -147 60 1 0 0 0 1 0 0 0 1 s\blindpinhole.dat
+1 16 110 -127 60 0 -1 0 0 0 10 10 0 0 4-4ndis.dat
+1 16 110 -127 60 0 -1 0 0 0 2 2 0 0 4-4ring4.dat
+1 16 100 -127 60 1 0 0 0 1 0 0 0 1 s\blindpinhole.dat
+0 // side of the head
+1 16 110 -175.5 120 0 -1 0 0 0 31.5 16 0 0 rect1.dat
+0 // end of the fillet, and the ledge over the body's corner
+1 16 110 -136 112 0 -1 0 8 0 0 0 0 8 rect1.dat
+1 16 110 -128 136 0 -1 0 0 0 -16 -16 0 0 1-4ndis.dat
+1 16 94 -128 104 16 0 0 0 -1 0 0 0 16 1-4ndis.dat
+1 16 94 -128 104 16 0 0 0 1 0 0 0 16 1-4edge.dat
